@@ -1,4 +1,7 @@
-export function Score(){
-    let leftScore = 5
-    return (<div>you have: {leftScore}  score left</div>)
+
+
+export function Score({score}){
+    
+
+    return (<div>you have: {score}  score left</div>)
 }

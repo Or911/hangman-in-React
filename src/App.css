@@ -36,3 +36,7 @@
     transform: rotate(360deg);
   }
 }
+.lettrHide{
+  /* color: rgb(161, 161, 161); */
+  text-decoration: line-through;
+}
